@@ -1,22 +1,17 @@
 import Navbar1 from "./components/Navbar1";
 import Hero from "./components/Hero";
 import Second from "./components/Second";
-import { NavLink } from "react-router-dom";
-import { BrowserRouter } from "react-router-dom";
 import { useRef, useState } from "react";
-import First from "./components/Cards/First";
 import Pick_a_plan from "./components/Pick_a_plan";
 import Creative_cloud from "./components/Creative_cloud";
 import Questions from "./components/Questions";
 import Footer from "./components/Footer";
 import Main_footer from "./components/Main_footer";
-import Design from "./components/design";
 import NewCard from "./components/NewCard";
 import Secondd from "./components/Cards/Second";
 import { IoIosArrowBack } from "react-icons/io";
 import { IoIosArrowForward } from "react-icons/io";
 import Sidebar from "./components/Sidebar";
-import { BiMessageAltDetail } from "react-icons/bi";
 import { ImCross } from "react-icons/im";
 import { motion } from "framer-motion"
 import Three from "./components/Cards/three";
